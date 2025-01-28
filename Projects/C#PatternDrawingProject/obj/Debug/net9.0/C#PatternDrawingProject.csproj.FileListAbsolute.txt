@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\bin\Debug\net9.0\C#PatternDrawingProject.exe
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\bin\Debug\net9.0\C#PatternDrawingProject.deps.json
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\bin\Debug\net9.0\C#PatternDrawingProject.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\bin\Debug\net9.0\C#PatternDrawingProject.dll
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\bin\Debug\net9.0\C#PatternDrawingProject.pdb
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.dll
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\refint\C#PatternDrawingProject.dll
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.pdb
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\C#PatternDrawingProject.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\C#PatternDrawingProject\obj\Debug\net9.0\ref\C#PatternDrawingProject.dll
