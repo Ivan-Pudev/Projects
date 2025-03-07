@@ -1,0 +1,30 @@
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.exe
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.deps.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.pdb
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.sourcelink.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\refint\HTTP-Client-Class.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.pdb
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\ref\HTTP-Client-Class.dll
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.exe
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.deps.json
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.runtimeconfig.json
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.dll
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\bin\Debug\net9.0\HTTP-Client-Class.pdb
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.AssemblyInfo.cs
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.sourcelink.json
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.dll
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\refint\HTTP-Client-Class.dll
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.pdb
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\HTTP-Client-Class.genruntimeconfig.cache
+C:\Users\User\Source\Repos\Projects\PostManDiscoveries\HTTP-Client-Class\obj\Debug\net9.0\ref\HTTP-Client-Class.dll

@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\bin\Debug\net9.0\FormInteraction.exe
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\bin\Debug\net9.0\FormInteraction.deps.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\bin\Debug\net9.0\FormInteraction.runtimeconfig.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\bin\Debug\net9.0\FormInteraction.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\bin\Debug\net9.0\FormInteraction.pdb
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.AssemblyInfo.cs
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.sourcelink.json
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\refint\FormInteraction.dll
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.pdb
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\FormInteraction.genruntimeconfig.cache
+C:\Users\User\source\repos\SoftUni_Homeworks\Programming Fundamentals\PostManDiscoveries\PostManDiscoveries\obj\Debug\net9.0\ref\FormInteraction.dll

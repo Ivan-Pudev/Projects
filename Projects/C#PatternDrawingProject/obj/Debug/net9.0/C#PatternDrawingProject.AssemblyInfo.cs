@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C#PatternDrawingProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+88694d2199faeb27126a6fd006f39e37aec1fa3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5853741956b4543e1079a500fa2b7777999298ae")]
 [assembly: System.Reflection.AssemblyProductAttribute("C#PatternDrawingProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C#PatternDrawingProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

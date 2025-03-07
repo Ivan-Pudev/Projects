@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.sourcelink.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net9.0\06.VehicleCatalogue.exe
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net9.0\06.VehicleCatalogue.deps.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net9.0\06.VehicleCatalogue.runtimeconfig.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net9.0\06.VehicleCatalogue.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\bin\Debug\net9.0\06.VehicleCatalogue.pdb
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\refint\06.VehicleCatalogue.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.pdb
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\06.VehicleCatalogue.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\06.VehicleCatalogue\obj\Debug\net9.0\ref\06.VehicleCatalogue.dll

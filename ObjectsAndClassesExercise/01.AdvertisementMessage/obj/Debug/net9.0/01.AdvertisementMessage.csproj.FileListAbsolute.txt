@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.sourcelink.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net9.0\01.AdvertisementMessage.exe
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net9.0\01.AdvertisementMessage.deps.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net9.0\01.AdvertisementMessage.runtimeconfig.json
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net9.0\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\bin\Debug\net9.0\01.AdvertisementMessage.pdb
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\refint\01.AdvertisementMessage.dll
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.pdb
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\01.AdvertisementMessage.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\ObjectsAndClassesExercise\01.AdvertisementMessage\obj\Debug\net9.0\ref\01.AdvertisementMessage.dll
