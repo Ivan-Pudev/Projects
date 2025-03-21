@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\net9.0\RandomSentencesGenerator.exe
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\net9.0\RandomSentencesGenerator.deps.json
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\net9.0\RandomSentencesGenerator.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\net9.0\RandomSentencesGenerator.dll
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\bin\Debug\net9.0\RandomSentencesGenerator.pdb
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.dll
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\refint\RandomSentencesGenerator.dll
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.pdb
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\RandomSentencesGenerator.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\RandomSentencesGenerator\RandomSentencesGenerator\obj\Debug\net9.0\ref\RandomSentencesGenerator.dll
