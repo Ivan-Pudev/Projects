@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\bin\Debug\net9.0\AddressBookApplicationProject.exe
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\bin\Debug\net9.0\AddressBookApplicationProject.deps.json
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\bin\Debug\net9.0\AddressBookApplicationProject.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\bin\Debug\net9.0\AddressBookApplicationProject.dll
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\bin\Debug\net9.0\AddressBookApplicationProject.pdb
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.dll
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\refint\AddressBookApplicationProject.dll
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.pdb
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\AddressBookApplicationProject.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\AddressBookApplicationProject\AddressBookApplicationProject\obj\Debug\net9.0\ref\AddressBookApplicationProject.dll

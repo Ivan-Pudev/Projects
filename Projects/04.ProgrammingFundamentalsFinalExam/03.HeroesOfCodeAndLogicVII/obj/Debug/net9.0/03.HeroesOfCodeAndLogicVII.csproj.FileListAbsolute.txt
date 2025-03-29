@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net9.0\03.HeroesOfCodeAndLogicVII.exe
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net9.0\03.HeroesOfCodeAndLogicVII.deps.json
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net9.0\03.HeroesOfCodeAndLogicVII.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net9.0\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\bin\Debug\net9.0\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\refint\03.HeroesOfCodeAndLogicVII.dll
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.pdb
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\03.HeroesOfCodeAndLogicVII.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\04.ProgrammingFundamentalsFinalExam\03.HeroesOfCodeAndLogicVII\obj\Debug\net9.0\ref\03.HeroesOfCodeAndLogicVII.dll

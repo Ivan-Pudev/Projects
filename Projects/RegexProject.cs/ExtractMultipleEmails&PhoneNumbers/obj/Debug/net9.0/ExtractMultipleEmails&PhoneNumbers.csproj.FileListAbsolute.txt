@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\bin\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.exe
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\bin\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.deps.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\bin\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\bin\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\bin\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\refint\ExtractMultipleEmails&PhoneNumbers.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ExtractMultipleEmails&PhoneNumbers.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\ExtractMultipleEmails&PhoneNumbers\obj\Debug\net9.0\ref\ExtractMultipleEmails&PhoneNumbers.dll

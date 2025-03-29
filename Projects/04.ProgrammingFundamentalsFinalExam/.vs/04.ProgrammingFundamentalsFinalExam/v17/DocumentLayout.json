@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E0973879-FFEA-460C-8B79-58BDA134E90B}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0973879-FFEA-460C-8B79-58BDA134E90B}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|solutionrelative:03.heroesofcodeandlogicvii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0973879-FFEA-460C-8B79-58BDA134E90B}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\03.heroesofcodeandlogicvii\\03.heroesofcodeandlogicvii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E0973879-FFEA-460C-8B79-58BDA134E90B}|03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj|solutionrelative:03.heroesofcodeandlogicvii\\03.heroesofcodeandlogicvii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8AB5B-A743-4F41-B2FF-8E10FEBA93B1}|02.FancyBarcodes\\02.FancyBarcodes.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA8AB5B-A743-4F41-B2FF-8E10FEBA93B1}|02.FancyBarcodes\\02.FancyBarcodes.csproj|solutionrelative:02.fancybarcodes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF2FC7-7DCE-4CF5-B190-0363210958D6}|01.PasswordReset\\01.PasswordReset.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBF2FC7-7DCE-4CF5-B190-0363210958D6}|01.PasswordReset\\01.PasswordReset.csproj|solutionrelative:01.passwordreset\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA8AB5B-A743-4F41-B2FF-8E10FEBA93B1}|02.FancyBarcodes\\02.FancyBarcodes.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\02.fancybarcodes\\02.fancybarcodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6AA8AB5B-A743-4F41-B2FF-8E10FEBA93B1}|02.FancyBarcodes\\02.FancyBarcodes.csproj|solutionrelative:02.fancybarcodes\\02.fancybarcodes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBF2FC7-7DCE-4CF5-B190-0363210958D6}|01.PasswordReset\\01.PasswordReset.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\04.programmingfundamentalsfinalexam\\01.passwordreset\\01.passwordreset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BBF2FC7-7DCE-4CF5-B190-0363210958D6}|01.PasswordReset\\01.PasswordReset.csproj|solutionrelative:01.passwordreset\\01.passwordreset.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "03.HeroesOfCodeAndLogicVII.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj",
+              "RelativeDocumentMoniker": "03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj",
+              "RelativeToolTip": "03.HeroesOfCodeAndLogicVII\\03.HeroesOfCodeAndLogicVII.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T16:09:15.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeDocumentMoniker": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "RelativeToolTip": "03.HeroesOfCodeAndLogicVII\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwG0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T16:08:49.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02.FancyBarcodes.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\02.FancyBarcodes\\02.FancyBarcodes.csproj",
+              "RelativeDocumentMoniker": "02.FancyBarcodes\\02.FancyBarcodes.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\02.FancyBarcodes\\02.FancyBarcodes.csproj",
+              "RelativeToolTip": "02.FancyBarcodes\\02.FancyBarcodes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T15:38:25.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\02.FancyBarcodes\\Program.cs",
+              "RelativeDocumentMoniker": "02.FancyBarcodes\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\02.FancyBarcodes\\Program.cs",
+              "RelativeToolTip": "02.FancyBarcodes\\Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAywBwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T15:38:23.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01.PasswordReset.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\01.PasswordReset\\01.PasswordReset.csproj",
+              "RelativeDocumentMoniker": "01.PasswordReset\\01.PasswordReset.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\01.PasswordReset\\01.PasswordReset.csproj",
+              "RelativeToolTip": "01.PasswordReset\\01.PasswordReset.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-24T22:06:12.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\01.PasswordReset\\Program.cs",
+              "RelativeDocumentMoniker": "01.PasswordReset\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\04.ProgrammingFundamentalsFinalExam\\01.PasswordReset\\Program.cs",
+              "RelativeToolTip": "01.PasswordReset\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAIAzwA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:54:15.104Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

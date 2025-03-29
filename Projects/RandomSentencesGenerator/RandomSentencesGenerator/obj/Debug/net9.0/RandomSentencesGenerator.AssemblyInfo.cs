@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RandomSentencesGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63d33ffec9b0c2bcabda4280d8257cc0cbf3fd88")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+50a15d729e82c37d83836c05a371d73ddfad754e")]
 [assembly: System.Reflection.AssemblyProductAttribute("RandomSentencesGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RandomSentencesGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

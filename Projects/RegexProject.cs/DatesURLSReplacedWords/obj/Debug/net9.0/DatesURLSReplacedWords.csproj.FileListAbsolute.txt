@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\bin\Debug\net9.0\DatesURLSReplacedWords.exe
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\bin\Debug\net9.0\DatesURLSReplacedWords.deps.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\bin\Debug\net9.0\DatesURLSReplacedWords.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\bin\Debug\net9.0\DatesURLSReplacedWords.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\bin\Debug\net9.0\DatesURLSReplacedWords.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\refint\DatesURLSReplacedWords.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\DatesURLSReplacedWords.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\DatesURLSReplacedWords\obj\Debug\net9.0\ref\DatesURLSReplacedWords.dll

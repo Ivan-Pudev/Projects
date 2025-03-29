@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\bin\Debug\net9.0\ExtractEmailFromText.exe
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\bin\Debug\net9.0\ExtractEmailFromText.deps.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\bin\Debug\net9.0\ExtractEmailFromText.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\bin\Debug\net9.0\ExtractEmailFromText.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\bin\Debug\net9.0\ExtractEmailFromText.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\refint\ExtractEmailFromText.dll
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.pdb
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ExtractEmailFromText.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\RegexProject.cs\RegexProject.cs\obj\Debug\net9.0\ref\ExtractEmailFromText.dll
