@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExtractEmailFromText")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b599e90d586850b60d0236f9ca7c972c00a51398")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc30678ff5679215ae91d746d10e156ba765f327")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExtractEmailFromText")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExtractEmailFromText")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
