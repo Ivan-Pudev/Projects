@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ValidateUserInput(Email & Password Checker)")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7838893af1e0e74b7ca26e4715e0e1500f361d74")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d904990aab8bb1dc1ad5fa04b0004dc1973c40a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ValidateUserInput(Email & Password Checker)")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ValidateUserInput(Email & Password Checker)")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

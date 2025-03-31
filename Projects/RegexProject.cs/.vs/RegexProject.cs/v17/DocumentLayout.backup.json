@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{3D532B19-2B74-48DA-9146-1C3EDA948E08}|ValidateUserInput(Email \u0026 Password Checker)\\ValidateUserInput(Email \u0026 Password Checker).csproj|solutionrelative:validateuserinput(email \u0026 password checker)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\regexproject.cs\\regexproject.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|solutionrelative:regexproject.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A06E33D3-62E2-4B20-8336-1F102F9278E6}|ExtractMultipleEmails\u0026PhoneNumbers\\ExtractMultipleEmails\u0026PhoneNumbers.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\regexproject.cs\\extractmultipleemails\u0026phonenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A06E33D3-62E2-4B20-8336-1F102F9278E6}|ExtractMultipleEmails\u0026PhoneNumbers\\ExtractMultipleEmails\u0026PhoneNumbers.csproj|solutionrelative:extractmultipleemails\u0026phonenumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\regexproject.cs\\regexproject.cs\\extractemailfromtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|solutionrelative:regexproject.cs\\extractemailfromtext.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\regexproject.cs\\regexproject.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2BB21DD2-244A-4983-9C1C-FA6304159E5D}|RegexProject.cs\\ExtractEmailFromText.csproj|solutionrelative:regexproject.cs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DatesURLSReplacedWords.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\DatesURLSReplacedWords\\DatesURLSReplacedWords.csproj",
               "RelativeDocumentMoniker": "DatesURLSReplacedWords\\DatesURLSReplacedWords.csproj",
@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "DatesURLSReplacedWords\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\DatesURLSReplacedWords\\Program.cs",
               "RelativeToolTip": "DatesURLSReplacedWords\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAIwB4AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T16:04:27.758Z",
               "EditorCaption": ""
@@ -75,11 +75,12 @@
               "RelativeToolTip": "ValidateUserInput(Email \u0026 Password Checker)\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T16:01:07.577Z"
+              "WhenOpened": "2025-03-23T16:01:07.577Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ExtractMultipleEmails\u0026PhoneNumbers.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\ExtractMultipleEmails\u0026PhoneNumbers\\ExtractMultipleEmails\u0026PhoneNumbers.csproj",
               "RelativeDocumentMoniker": "ExtractMultipleEmails\u0026PhoneNumbers\\ExtractMultipleEmails\u0026PhoneNumbers.csproj",
@@ -91,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\ExtractMultipleEmails\u0026PhoneNumbers\\Program.cs",
               "RelativeDocumentMoniker": "ExtractMultipleEmails\u0026PhoneNumbers\\Program.cs",
@@ -103,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ExtractEmailFromText.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\RegexProject.cs\\ExtractEmailFromText.csproj",
               "RelativeDocumentMoniker": "RegexProject.cs\\ExtractEmailFromText.csproj",
@@ -115,15 +116,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\RegexProject.cs\\Program.cs",
               "RelativeDocumentMoniker": "RegexProject.cs\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\RegexProject.cs\\RegexProject.cs\\Program.cs",
               "RelativeToolTip": "RegexProject.cs\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-23T14:16:29.332Z"
+              "WhenOpened": "2025-03-23T14:16:29.332Z",
+              "EditorCaption": ""
             }
           ]
         }
