@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatesURLSReplacedWords")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc30678ff5679215ae91d746d10e156ba765f327")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7838893af1e0e74b7ca26e4715e0e1500f361d74")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatesURLSReplacedWords")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatesURLSReplacedWords")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\HangManGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6C0603-1DA7-41EB-A6E2-6E5C8A143076}|HangManGame\\HangManGame.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\hangmangame\\hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B6C0603-1DA7-41EB-A6E2-6E5C8A143076}|HangManGame\\HangManGame.csproj|solutionrelative:hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B6C0603-1DA7-41EB-A6E2-6E5C8A143076}|HangManGame\\HangManGame.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\hangmangame\\hangmangame\\hangmangame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B6C0603-1DA7-41EB-A6E2-6E5C8A143076}|HangManGame\\HangManGame.csproj|solutionrelative:hangmangame\\hangmangame.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HangManGame",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\HangManGame\\HangManGame\\HangManGame.csproj",
+              "RelativeDocumentMoniker": "HangManGame\\HangManGame.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\HangManGame\\HangManGame\\HangManGame.csproj",
+              "RelativeToolTip": "HangManGame\\HangManGame.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-29T16:57:29.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\HangManGame\\HangManGame\\Program.cs",
+              "RelativeDocumentMoniker": "HangManGame\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\HangManGame\\HangManGame\\Program.cs",
+              "RelativeToolTip": "HangManGame\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAD8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T16:57:23.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
