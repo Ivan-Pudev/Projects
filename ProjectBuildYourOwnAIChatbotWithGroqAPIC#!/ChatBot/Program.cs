@@ -9,9 +9,9 @@ using Newtonsoft.Json;
 class Program
 {
     private static readonly HttpClient client = new HttpClient();
-    private const string apiKey = "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"; // Replace with your actual API key
+    private const string apiKey = "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"; 
     private const string apiUrl = "https://api.groq.com/openai/v1/chat/completions";
-    private const string HistoryFile = "chat_history.txt"; // File to store conversation history
+    private const string HistoryFile = "chat_history.txt"; 
     private static List<object> conversationHistory = new();
     private static string selectedModel = "llama3-8b-8192";
     private static string personalityPrompt = "You are a helpful AI assistant";

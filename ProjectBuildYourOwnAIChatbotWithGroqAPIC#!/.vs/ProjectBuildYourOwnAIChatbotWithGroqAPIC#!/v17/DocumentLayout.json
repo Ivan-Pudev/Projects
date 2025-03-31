@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,7 +34,8 @@
               "RelativeToolTip": "ChatBot\\ChatBot.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-18T21:16:46.379Z"
+              "WhenOpened": "2025-02-18T21:16:46.379Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +45,7 @@
               "RelativeDocumentMoniker": "ChatBot\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\ProjectBuildYourOwnAIChatbotWithGroqAPIC#!\\ChatBot\\Program.cs",
               "RelativeToolTip": "ChatBot\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA5wB0AAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T21:15:36.705Z",
               "EditorCaption": ""
