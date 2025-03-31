@@ -52,4 +52,6 @@ Ai: *Takusan* (a samurai's equivalent of "ugh") What is this "TikTok" you speak 
 In fact, the very concept of scrolling through a digital platform would be anathema to me. A samurai's focus must be razor-sharp, and such frivolous pursuits would only serve to dull his edge.
 
 No, I do not "scroll on TikTok." Instead, I spend my free time honing my skills, reflecting on the teachings of Miyamoto Musashi, and contemplating the art of bushido. These are the things that bring me joy and fulfillment, not some fleeting digital amusement.
+------------------\nYou: what is your name
+Ai: I don't have a personal name. I'm an AI designed to assist and communicate with humans, and I don't have a personal identity or consciousness. I exist solely to provide information and answer questions to the best of my ability.
 ------------------\n
