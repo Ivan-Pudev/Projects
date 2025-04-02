@@ -23,15 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "ExpenseTracker",
+              "Title": "ExpenseTracker.csproj",
               "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
               "RelativeDocumentMoniker": "ExpenseTracker\\ExpenseTracker.csproj",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\ExpenseTracker\\ExpenseTracker\\ExpenseTracker.csproj",
               "RelativeToolTip": "ExpenseTracker\\ExpenseTracker.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-02T09:41:42.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-02T09:41:42.477Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "ExpenseTracker\\Program.cs",
               "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\ExpenseTracker\\ExpenseTracker\\Program.cs",
               "RelativeToolTip": "ExpenseTracker\\Program.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA3wL0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAL0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:41:15.924Z",
               "EditorCaption": ""

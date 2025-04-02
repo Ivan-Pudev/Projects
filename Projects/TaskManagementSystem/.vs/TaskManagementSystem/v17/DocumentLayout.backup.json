@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\pages\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\pages\\task\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\pages\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\pages\\task\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\taskmanagementsystem\\taskmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F61346D9-4147-4074-825C-594F5A5A619B}|TaskManagementSystem\\TaskManagementSystem.csproj|solutionrelative:taskmanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Index.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:06:31.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Task\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Pages\\Task\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Task\\Edit.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Pages\\Task\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:04:01.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Task\\Create.cshtml",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Pages\\Task\\Create.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Pages\\Task\\Create.cshtml",
+              "RelativeToolTip": "TaskManagementSystem\\Pages\\Task\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-02T13:02:15.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA4wDgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:58:56.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\appsettings.json*",
+              "RelativeToolTip": "TaskManagementSystem\\appsettings.json*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-02T12:50:18.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:46:10.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Models\\TaskModel.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:42:44.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\TaskManagementSystem\\TaskManagementSystem\\Program.cs",
+              "RelativeToolTip": "TaskManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T12:35:59.079Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

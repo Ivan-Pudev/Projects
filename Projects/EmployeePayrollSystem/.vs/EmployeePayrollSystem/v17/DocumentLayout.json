@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\employeemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\payroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\datastorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\employeepayrollsystem\\employeepayrollsystem\\employeepayrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A9F6A548-80D0-4E73-A4F6-FF931ECBF084}|EmployeePayrollSystem\\EmployeePayrollSystem.csproj|solutionrelative:employeepayrollsystem\\employeepayrollsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataStorage.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\DataStorage.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\DataStorage.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\DataStorage.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\DataStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:08:49.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeManager.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\EmployeeManager.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\EmployeeManager.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\EmployeeManager.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\EmployeeManager.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAzwE4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:07:46.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Payroll.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Payroll.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\Payroll.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Payroll.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\Payroll.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:04:27.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\Employee.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Employee.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T14:00:28.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeePayrollSystem",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\EmployeePayrollSystem.csproj",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\EmployeePayrollSystem.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\EmployeePayrollSystem.csproj",
+              "RelativeToolTip": "EmployeePayrollSystem\\EmployeePayrollSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-02T13:53:56.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeePayrollSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\EmployeePayrollSystem\\EmployeePayrollSystem\\Program.cs",
+              "RelativeToolTip": "EmployeePayrollSystem\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwDQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T13:52:22.549Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

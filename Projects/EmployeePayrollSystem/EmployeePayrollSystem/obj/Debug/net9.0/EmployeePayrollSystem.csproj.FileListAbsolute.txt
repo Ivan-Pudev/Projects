@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.exe
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.deps.json
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.dll
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\bin\Debug\net9.0\EmployeePayrollSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.dll
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\refint\EmployeePayrollSystem.dll
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\EmployeePayrollSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\EmployeePayrollSystem\EmployeePayrollSystem\obj\Debug\net9.0\ref\EmployeePayrollSystem.dll
