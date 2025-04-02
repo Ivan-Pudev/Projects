@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SimpleTextEditor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+30e2184b568242361594d63d42f9c78aec0bb706")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+062274cb005a2be39dd7f521a7e3752a6b82711a")]
 [assembly: System.Reflection.AssemblyProductAttribute("SimpleTextEditor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SimpleTextEditor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

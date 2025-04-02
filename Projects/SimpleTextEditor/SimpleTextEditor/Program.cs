@@ -29,7 +29,7 @@ namespace SimpleTextEditor
                         OpenTextFiles(textFiles);
                         break;
                     case "2":
-                        text = text.
+                        text = Console.ReadLine();
                         break;
                     case "3":
                         Console.WriteLine("Save or overwrite a new file!");

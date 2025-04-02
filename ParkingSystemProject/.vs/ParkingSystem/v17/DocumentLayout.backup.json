@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\ParkingSystemProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|c:\\users\\user\\source\\repos\\projects\\parkingsystemproject\\parkingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3DD1A16-3858-4C9B-9A2E-624D2D497BC2}|ParkingSystem\\ParkingSystem.csproj|solutionrelative:parkingsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\ParkingSystemProject\\ParkingSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ParkingSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\ParkingSystemProject\\ParkingSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ParkingSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T09:00:14.752Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
