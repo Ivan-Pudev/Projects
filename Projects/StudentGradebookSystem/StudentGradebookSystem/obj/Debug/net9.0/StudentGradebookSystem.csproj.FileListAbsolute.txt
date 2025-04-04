@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\bin\Debug\net9.0\StudentGradebookSystem.exe
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\bin\Debug\net9.0\StudentGradebookSystem.deps.json
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\bin\Debug\net9.0\StudentGradebookSystem.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\bin\Debug\net9.0\StudentGradebookSystem.dll
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\bin\Debug\net9.0\StudentGradebookSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.dll
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\refint\StudentGradebookSystem.dll
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\StudentGradebookSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\StudentGradebookSystem\StudentGradebookSystem\obj\Debug\net9.0\ref\StudentGradebookSystem.dll

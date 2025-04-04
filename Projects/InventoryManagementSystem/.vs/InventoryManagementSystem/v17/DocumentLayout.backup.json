@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\report.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\salestransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\supplier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\inventorymanagementsystem\\inventorymanagementsystem\\inventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F6109EEF-CF89-45E9-9AA8-E55358BDB512}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\inventorymanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Report.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Report.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Report.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Report.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Report.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:22:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SalesTransaction.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\SalesTransaction.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\SalesTransaction.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\SalesTransaction.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\SalesTransaction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:18:25.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Order.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:14:24.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Supplier.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Supplier.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Supplier.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Supplier.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Supplier.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAABDwAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:12:00.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Inventory.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Inventory.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Inventory.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Inventory.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAmwDUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T08:03:22.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAowAIAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:58:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventoryManagementSystem.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "RelativeToolTip": "InventoryManagementSystem\\InventoryManagementSystem.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-03T07:55:17.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAH0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T07:55:14.213Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

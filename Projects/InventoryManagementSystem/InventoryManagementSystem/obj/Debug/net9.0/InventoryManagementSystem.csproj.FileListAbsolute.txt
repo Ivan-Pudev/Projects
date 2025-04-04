@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.AssemblyInfo.cs
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.sourcelink.json
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.exe
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.deps.json
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.runtimeconfig.json
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.dll
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\bin\Debug\net9.0\InventoryManagementSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.dll
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\refint\InventoryManagementSystem.dll
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.pdb
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\InventoryManagementSystem.genruntimeconfig.cache
+C:\Users\User\source\repos\Projects\Projects\InventoryManagementSystem\InventoryManagementSystem\obj\Debug\net9.0\ref\InventoryManagementSystem.dll
