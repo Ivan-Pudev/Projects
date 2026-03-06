@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA0A36FF-B1AE-47C6-ACB0-AB4426A804BB}|C#PatternDrawingProject\\C#PatternDrawingProject.csproj|c:\\users\\user\\source\\repos\\projects\\projects\\c#patterndrawingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA0A36FF-B1AE-47C6-ACB0-AB4426A804BB}|C#PatternDrawingProject\\C#PatternDrawingProject.csproj|solutionrelative:c#patterndrawingproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\C#PatternDrawingProject\\Program.cs",
+              "RelativeDocumentMoniker": "C#PatternDrawingProject\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Projects\\Projects\\C#PatternDrawingProject\\Program.cs",
+              "RelativeToolTip": "C#PatternDrawingProject\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA5wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T11:04:04.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
